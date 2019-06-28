@@ -1,0 +1,17 @@
+html, body {
+  margin: 40;
+  padding: 40;
+  background-color:#56baed;
+}
+canvas {
+  display: block;
+}
+#h00{
+  text-align:center;
+}
+#h01{
+  text-align:center;
+}
+#p01{
+  text-align:center;
+}
